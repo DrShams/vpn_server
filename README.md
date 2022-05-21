@@ -10,5 +10,5 @@ sudo ./openvpn_install.sh
 sudo systemctl status openvpn-server@server.service
 netstat --tcp --udp --listening --program --numeric | grep -i openvpn
 ```
-
+.ovpn file will be located in /root directory
 Welcome to free internet!
