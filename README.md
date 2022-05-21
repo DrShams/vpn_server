@@ -1,4 +1,4 @@
-## How to set up OpenVPN server on UBUNTU
+## How to set up OpenVPN server on Linux - Ubuntu
 
 |Command|Description|
 |-----|--------|
