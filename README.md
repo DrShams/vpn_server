@@ -1,4 +1,4 @@
-# How to setup OpenVPN server on UBUNTU
+## How to setup OpenVPN server on UBUNTU
 
 |Command|Description|
 |-----|--------|
@@ -10,5 +10,5 @@
 |sudo systemctl status openvpn-server@server.service|check status of the service|
 |netstat --tcp --udp --listening --program --numeric | grep -i openvpn|make sure port 1194 is open, if not the port|
 
-##At the end .ovpn file will be located in /root directory
+## At the end .ovpn file will be located in /root directory
 Welcome to free internet!
